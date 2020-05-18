@@ -1,0 +1,27 @@
+.Monster {
+  border-radius: 10px;
+  background-color: rgb(27, 174, 194);
+  font-size: 17px;
+  height: 300px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease-out;
+  cursor: pointer;
+  padding: 10px;
+}
+.Monster img {
+  width: 100%;
+  height: 150px;
+  display: block;
+  object-fit: cover;
+}
+.Monster h2{
+    font-size: 17px;
+}
+.Monster p{
+    font-size: 15px;
+}
+.Monster:hover {
+  transform: scale(1.05);
+}

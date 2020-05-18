@@ -1,0 +1,8 @@
+.Monster-List {
+  width: 90%;
+  margin: 40px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  box-sizing: border-box;
+}
