@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-fighter/static/css/main.627eed88.chunk.css",
+    "main.js": "/monster-fighter/static/js/main.b589edf8.chunk.js",
+    "main.js.map": "/monster-fighter/static/js/main.b589edf8.chunk.js.map",
+    "runtime-main.js": "/monster-fighter/static/js/runtime-main.85db7697.js",
+    "runtime-main.js.map": "/monster-fighter/static/js/runtime-main.85db7697.js.map",
+    "static/js/2.b35c41c6.chunk.js": "/monster-fighter/static/js/2.b35c41c6.chunk.js",
+    "static/js/2.b35c41c6.chunk.js.map": "/monster-fighter/static/js/2.b35c41c6.chunk.js.map",
+    "index.html": "/monster-fighter/index.html",
+    "precache-manifest.e3a0064724756458c2c65fd710001fb0.js": "/monster-fighter/precache-manifest.e3a0064724756458c2c65fd710001fb0.js",
+    "service-worker.js": "/monster-fighter/service-worker.js",
+    "static/css/main.627eed88.chunk.css.map": "/monster-fighter/static/css/main.627eed88.chunk.css.map",
+    "static/js/2.b35c41c6.chunk.js.LICENSE.txt": "/monster-fighter/static/js/2.b35c41c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85db7697.js",
+    "static/js/2.b35c41c6.chunk.js",
+    "static/css/main.627eed88.chunk.css",
+    "static/js/main.b589edf8.chunk.js"
+  ]
+}
